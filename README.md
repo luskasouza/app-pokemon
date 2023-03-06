@@ -1,7 +1,7 @@
 # App-Pokémon
 
 A Quasar Project
-
+@https://pokeapi.co/docs/v2#info
 ## Install the dependencies
 ```bash
 yarn
