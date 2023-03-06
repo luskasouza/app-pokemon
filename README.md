@@ -1,4 +1,4 @@
-# Quasar App (app-pokemon)
+# App-Pokémon
 
 A Quasar Project
 
